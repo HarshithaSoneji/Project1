@@ -24,4 +24,4 @@ while (( choice !=answer )); do
         fi
 done
 #Finish
-echo "CONGRATULATIONS!! Winner Winner Chicken Dinner"
+echo "CONGRATULATIONS!!You guessed it right!!"
